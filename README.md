@@ -3,5 +3,5 @@
 A new Flutter project to learn animation
 
 <details><summary>Example 1:</summary>
- > https://github.com/PrinceLeBon/habit_tracker/assets/102158487/863fb3b5-5692-4d3c-b939-7c0d0ef0322f
+ > https://user-images.githubusercontent.com/102158487/222467217-49b8eeb5-ac85-482a-8905-7ca2cd1f3cb8.webm
 </details>

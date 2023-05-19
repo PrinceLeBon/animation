@@ -1,3 +1,4 @@
+import 'package:animation/exemple2.dart';
 import 'package:flutter/material.dart';
 import 'exemple1.dart';
 

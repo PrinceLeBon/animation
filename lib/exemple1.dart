@@ -33,12 +33,12 @@ class _MyHomePageState extends State<MyHomePage>
   Widget build(BuildContext context) {
     return Scaffold(
         body: Center(
-            child: AnimatedBuilder(
+            child:/* AnimatedBuilder(
                 animation: _controller,
                 builder: (context, child) {
-                  return Transform(
+                  return */Transform(
                     alignment: Alignment.center,
-                    transform: Matrix4.identity()..rotateX(_animation.value),
+                    transform: Matrix4.identity()..rotateZ(pi/4),
                     child: Container(
                       width: 100,
                       height: 100,
@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage>
                                 offset: const Offset(0, 3))
                           ]),
                     ),
-                  );
-                })));
+                  )/*;
+                })*/));
   }
 }

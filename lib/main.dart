@@ -1,6 +1,6 @@
 import 'package:animation/exemple2.dart';
 import 'package:flutter/material.dart';
-import 'exemple1.dart';
+import 'custom_painter.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const MyHomePage(),
+      home: const MyPainter(),
     );
   }
 }

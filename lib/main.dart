@@ -1,4 +1,5 @@
 import 'package:animation/exemple2.dart';
+import 'package:animation/visualizer.dart';
 import 'package:flutter/material.dart';
 import 'custom_painter.dart';
 
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const MyPainter(),
+      home: const Visualizer(),
     );
   }
 }

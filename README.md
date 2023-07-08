@@ -7,3 +7,6 @@ A new Flutter project to learn animation
 
 ### Visualizer
  > https://github.com/PrinceLeBon/animation/assets/102158487/7b4797ea-33f3-4537-9f31-dd3f01cb2469
+
+### SquareBouncer
+ > https://github.com/PrinceLeBon/animation/assets/102158487/ca84089b-b8ee-4038-ab51-54e76edc97d4

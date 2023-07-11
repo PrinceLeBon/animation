@@ -16,13 +16,11 @@
 
 1. Expanding Card: Display a card with an initial size. When a button is pressed, animate the expansion of the card so that it occupies more space on the screen.
 
-2. Sliding Menu: Display a hidden menu on screen. When a button is pressed, animate the scrolling of the menu from the left to its display position.
+2. Fading List: Display a list of items. When a button is pressed, animate the gradual disappearance of each item in the list by adjusting their opacity.
 
-3. Fading List: Display a list of items. When a button is pressed, animate the gradual disappearance of each item in the list by adjusting their opacity.
+3. Bouncing Ball: Display a ball at an initial position. When a button is pressed, animate the bouncing of the ball by adjusting its vertical position and applying a damping effect.
 
-4. Bouncing Ball: Display a ball at an initial position. When a button is pressed, animate the bouncing of the ball by adjusting its vertical position and applying a damping effect.
-
-5. Scaling Icons: Display a list of icons. When a button is pressed, animate the progressive enlargement of each icon so that it occupies more space on the screen.
+4. Scaling Icons: Display a list of icons. When a button is pressed, animate the progressive enlargement of each icon so that it occupies more space on the screen.
 
 ### Category: Difficult
 

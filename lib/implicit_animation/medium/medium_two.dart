@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class MediumOne extends StatefulWidget {
-  const MediumOne({super.key});
+class MediumTwo extends StatefulWidget {
+  const MediumTwo({super.key});
 
   @override
-  State<MediumOne> createState() => _MediumOneState();
+  State<MediumTwo> createState() => _MediumTwoState();
 }
 
-class _MediumOneState extends State<MediumOne> {
+class _MediumTwoState extends State<MediumTwo> {
   double opacity = 1;
 
   @override

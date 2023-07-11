@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'implicit_animation/easy/easy_four.dart';
+import 'implicit_animation/easy/easy_five.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const EasyFour(),
+      home: const EasyFive(),
     );
   }
 }

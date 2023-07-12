@@ -31,7 +31,7 @@ class ListOfAnimation extends StatelessWidget {
                     onPressed: () {
                       Navigator.of(context)
                           .push(MaterialPageRoute(builder: (context) {
-                        return const ExampleParallax();
+                        return const DifficultOne();
                       }));
                     },
                     child: const Text("Example Of Parallax")),

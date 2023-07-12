@@ -32,6 +32,7 @@
 ### Category: Difficult
 
 1. Parallax Effect: Display a background image and another image in the foreground. As the user scrolls down the page, animate the images to create a parallax scrolling effect.
+> https://github.com/PrinceLeBon/animation/assets/102158487/e8180225-1ebd-4296-9641-8dae599ce7e8
 
 2. Carousel Animation: Display a list of images in carousel mode. As the user slides horizontally across the screen, animate the fluid scrolling of images to create an interactive carousel experience.
 

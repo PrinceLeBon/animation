@@ -29,6 +29,7 @@ class _ExampleParallaxState extends State<ExampleParallax> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(),
       body: Container(
         margin: MediaQuery.of(context).padding,
         child: PageView.builder(

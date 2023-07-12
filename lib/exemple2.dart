@@ -11,6 +11,7 @@ class _Exemple2State extends State<Exemple2> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(),
       body: Container(
         margin: MediaQuery.of(context).padding,
         child: Row(

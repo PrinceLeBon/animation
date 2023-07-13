@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'floating.dart';
+import 'hero.dart';
 import 'list.dart';
 
 void main() {
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const Floating(),
+      home: const RadialExpansionDemo(),
     );
   }
 }

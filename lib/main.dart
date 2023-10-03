@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'downald_button.dart';
+import 'loading_effect.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const ExampleCupertinoDownloadButton(),
+      home: const ExampleUiLoadingAnimation(),
     );
   }
 }

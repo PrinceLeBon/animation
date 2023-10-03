@@ -1,5 +1,5 @@
+import 'package:animation/page_transition.dart';
 import 'package:flutter/material.dart';
-import 'hero.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const RadialExpansionDemo(),
+      home: const PageTransition(),
     );
   }
 }

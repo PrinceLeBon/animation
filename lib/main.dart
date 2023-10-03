@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'floating.dart';
 import 'hero.dart';
-import 'list.dart';
 
 void main() {
   runApp(const MyApp());

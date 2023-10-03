@@ -1,4 +1,4 @@
-import 'package:animation/page_transition.dart';
+import 'package:animation/physics_simulation.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const PageTransition(),
+      home: const PhysicsCardDragDemo(),
     );
   }
 }

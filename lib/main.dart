@@ -1,5 +1,5 @@
+import 'package:animation/exemple3.dart';
 import 'package:flutter/material.dart';
-import 'exemple2.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const Exemple2(),
+      home: const Exemple3(),
     );
   }
 }

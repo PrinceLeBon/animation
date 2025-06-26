@@ -1,5 +1,7 @@
-import 'package:animation/implicit_animation/difficult/difficult_one.dart';
+import 'package:animation/flip_card_page.dart';
 import 'package:flutter/material.dart';
+
+import 'list_card_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,7 +17,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const DifficultOne(),
+      home: const CardDeckScreen(),
     );
   }
 }

@@ -1,4 +1,4 @@
-import 'package:animation/exemple6.dart';
+import 'package:animation/implicit_animation/difficult/difficult_one.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const Exemple6(),
+      home: const DifficultOne(),
     );
   }
 }

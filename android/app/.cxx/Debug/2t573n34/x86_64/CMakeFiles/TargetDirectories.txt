@@ -1,0 +1,2 @@
+/Users/amen/StudioProjects/animation/android/app/.cxx/Debug/2t573n34/x86_64/CMakeFiles/edit_cache.dir
+/Users/amen/StudioProjects/animation/android/app/.cxx/Debug/2t573n34/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,5 @@
-import 'package:animation/flip_card_page.dart';
-import 'package:animation/glassmorphism_screen.dart';
+import 'package:animation/implicit_animation/difficult/slide_animation.dart';
 import 'package:flutter/material.dart';
-
-import 'list_card_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +15,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const GlassmorphismScreen(),
+      home: const LiquidOnboarding(),
     );
   }
 }

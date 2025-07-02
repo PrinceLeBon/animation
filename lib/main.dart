@@ -1,4 +1,5 @@
 import 'package:animation/flip_card_page.dart';
+import 'package:animation/glassmorphism_screen.dart';
 import 'package:flutter/material.dart';
 
 import 'list_card_screen.dart';
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       darkTheme: ThemeData(brightness: Brightness.dark),
       debugShowCheckedModeBanner: false,
       debugShowMaterialGrid: false,
-      home: const CardDeckScreen(),
+      home: const GlassmorphismScreen(),
     );
   }
 }
